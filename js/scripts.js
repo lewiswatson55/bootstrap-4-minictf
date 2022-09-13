@@ -10,7 +10,7 @@
 
 function showFlag() {
 	
-	alert("ctf{may_javascript_be_with_you}");
+	alert("freshers{may_javascript_be_with_you}");
 	
 }
 
